@@ -1,0 +1,1 @@
+This project aims to build a model for predicting car prices using machine learning techniques. A dataset containing various features of cars such as length, width, weight, engine size, and many other attributes has been analyzed.
